@@ -8,7 +8,8 @@ We have sniffed an unsecured network and found numbers that are used to encrypt 
 
 **Read or watch:**
 
- - RSA
+- [RSA Refactoring Challenge](https://en.wikipedia.org/wiki/RSA_Factoring_Challenge)
+- RSA
 - How does HTTPS provide security?
 - Prime Factorization
 - Why RSA?
